@@ -1,0 +1,101 @@
+body
+{
+margin:0px;
+background:url("m.png");
+}
+.body
+{
+
+max-width:1024px;
+height:100%;
+margin:0 auto;
+}
+.shapka
+{
+background-color:#ede300;
+
+}
+.menu
+{
+float:left;
+WIDTH:120px;
+background:url("q.jpg");
+}
+
+.menu ul
+{
+padding:0px 5px 10px 5px;
+width: 85%;
+}
+.menu ul li
+{
+border:1px groove;
+padding:5px 5px 5px 5px;
+margin:o;
+background:url("mn.jpg");
+}
+
+#vuduSporty
+{
+width:100%;
+height:58px;
+ margin:0;
+ background:url("mn.jpg");
+ text-align:center;
+color:blue;text-transform:uppercase;
+padding:5px 0px 5px 0px
+ 
+}
+.menu div
+{
+width:80%;
+margin:5px 0;
+background:#F5DEB3;
+font-weight:bold;text-transform:uppercase;
+}
+
+.menu ul li a{display:block;}
+
+
+.menu ul li:hover
+{
+	background:#F5DEB0;
+}
+
+
+
+.menu ul li A:link 
+{ 
+    text-decoration: none;
+	color:#000000;
+} 
+
+.menu ul li A:visited 
+{ 
+	text-decoration: none; 
+	color:#000000;
+} 
+.menu ul li A:active 
+{ 
+	text-decoration: none; 
+	color:#220000;
+}
+.menu ul li A:hover 
+{
+	text-decoration: none;
+    color: #000000; 
+} 
+
+.content
+{
+background-color:#f07180;
+float:left;
+width:80%;
+height:100%;
+padding:10px;
+text-align:justify;
+}
+#AAA
+{
+background:rgba(12, 255, 255, 0.85);	
+}
